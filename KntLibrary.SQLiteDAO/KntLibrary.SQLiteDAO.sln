@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KntLibrary.SQLiteDAO", "KntLibrary.SQLiteDAO\KntLibrary.SQLiteDAO.csproj", "{4505178C-9DE2-47DA-A245-D14B54C1A8E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KntLibrary.SQLiteDAO.TestUnit", "KntLibrary.SQLiteDAO.TestUnit\KntLibrary.SQLiteDAO.TestUnit.csproj", "{42D0F24D-9EFC-45F9-9EE7-4D826EF62F06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4505178C-9DE2-47DA-A245-D14B54C1A8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4505178C-9DE2-47DA-A245-D14B54C1A8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4505178C-9DE2-47DA-A245-D14B54C1A8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4505178C-9DE2-47DA-A245-D14B54C1A8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D0F24D-9EFC-45F9-9EE7-4D826EF62F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D0F24D-9EFC-45F9-9EE7-4D826EF62F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D0F24D-9EFC-45F9-9EE7-4D826EF62F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D0F24D-9EFC-45F9-9EE7-4D826EF62F06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
